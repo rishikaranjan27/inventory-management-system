@@ -1,0 +1,28 @@
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    /* width: 100%; */
+    width: 75vw;
+    background-color: white;
+    border-radius: 20px;
+
+  }
+  
+  td, th, tr {
+    text-align: left;
+    padding: 8px;
+  }
+
+  
+  
+
+  tr {
+    border-bottom: 1px solid #dddddd;
+
+   
+  }
+  
